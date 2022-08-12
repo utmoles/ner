@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:gn="http://www.geonames.org/ontology#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#">
+    <gn:Feature rdf:about="https://sws.geonames.org/2871073/">
+        <rdfs:isDefinedBy rdf:resource="https://sws.geonames.org/2871073/about.rdf"/>
+        <gn:name>Bahnhof Miltitz</gn:name>
+        <gn:nearby rdf:resource="https://sws.geonames.org/2871074/"/>
+    </gn:Feature>
+    <gn:Feature rdf:about="https://sws.geonames.org/2925587/">
+        <rdfs:isDefinedBy rdf:resource="https://sws.geonames.org/2925587/about.rdf"/>
+        <gn:name>Frankenheim-Lindennaundorf</gn:name>
+        <gn:nearby rdf:resource="https://sws.geonames.org/2871074/"/>
+    </gn:Feature>
+    <gn:Feature rdf:about="https://sws.geonames.org/11524051/">
+        <rdfs:isDefinedBy rdf:resource="https://sws.geonames.org/11524051/about.rdf"/>
+        <gn:name>West</gn:name>
+        <gn:nearby rdf:resource="https://sws.geonames.org/2871074/"/>
+    </gn:Feature>
+    <gn:Feature rdf:about="https://sws.geonames.org/6947044/">
+        <rdfs:isDefinedBy rdf:resource="https://sws.geonames.org/6947044/about.rdf"/>
+        <gn:name>Kulkwitzer See</gn:name>
+        <gn:nearby rdf:resource="https://sws.geonames.org/2871074/"/>
+    </gn:Feature>
+    <gn:Feature rdf:about="https://sws.geonames.org/2914478/">
+        <rdfs:isDefinedBy rdf:resource="https://sws.geonames.org/2914478/about.rdf"/>
+        <gn:name>Grünau</gn:name>
+        <gn:nearby rdf:resource="https://sws.geonames.org/2871074/"/>
+    </gn:Feature>
+    <gn:Feature rdf:about="https://sws.geonames.org/7304230/">
+        <rdfs:isDefinedBy rdf:resource="https://sws.geonames.org/7304230/about.rdf"/>
+        <gn:name>Wachberg</gn:name>
+        <gn:nearby rdf:resource="https://sws.geonames.org/2871074/"/>
+    </gn:Feature>
+    <gn:Feature rdf:about="https://sws.geonames.org/2925588/">
+        <rdfs:isDefinedBy rdf:resource="https://sws.geonames.org/2925588/about.rdf"/>
+        <gn:name>Frankenheim</gn:name>
+        <gn:nearby rdf:resource="https://sws.geonames.org/2871074/"/>
+    </gn:Feature>
+    <gn:Feature rdf:about="https://sws.geonames.org/2843467/">
+        <rdfs:isDefinedBy rdf:resource="https://sws.geonames.org/2843467/about.rdf"/>
+        <gn:name>Rückmarsdorf</gn:name>
+        <gn:nearby rdf:resource="https://sws.geonames.org/2871074/"/>
+    </gn:Feature>
+    <gn:Feature rdf:about="https://sws.geonames.org/2880025/">
+        <rdfs:isDefinedBy rdf:resource="https://sws.geonames.org/2880025/about.rdf"/>
+        <gn:name>Lausen</gn:name>
+        <gn:nearby rdf:resource="https://sws.geonames.org/2871074/"/>
+    </gn:Feature>
+</rdf:RDF>
